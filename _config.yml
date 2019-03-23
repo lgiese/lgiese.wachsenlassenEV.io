@@ -1,8 +1,8 @@
-title: Long Haul
+title: WachsenLassen
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://www.wachsenlassenmr.ml/
-baseurl: ""
+baseurl: #
 paginate_path: "blog/page:num/"
 permalink: http://www.wachsenlassenmr.ml/
 
