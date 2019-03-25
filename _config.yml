@@ -1,27 +1,29 @@
-title: WachsenLassen
+title: Wachsen Lassen E. V.
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://www.wachsenlassenmr.ml/
+url: "" # http://www.wachsenlassenmr.ml/
 baseurl: #
 paginate_path: "blog/page:num/"
-permalink: http://www.wachsenlassenmr.ml/
+permalink: 
 
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
-port: 4001
+port: 4040
 
 navigation:
-  - title: Home
+  - title: Gartenprojekt
     url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
+  - title: Neues
+    url: /articles
+  - title: Kontakt
     url: /contact
+  - title: Fotogallerie
+    url: /gallerie
 
 social:
-  github: brianmaierjr
+  github: https://github.com/lgiese/lgiese.wachsenlassenEV.io
   twitter: brianmaierjr
   facebook: brianmaierjr
   email: brimaidesigns@gmail.com
