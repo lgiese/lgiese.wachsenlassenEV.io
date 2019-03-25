@@ -9,7 +9,7 @@ title: So läuft´s
     <h1 class="pageTitle">Wie?</h1>
 	<p>Karte Beete, Locker, entspannt, einfach einsteigen!</p>
     <h1 class="pageTitle">Wann?</h1>
-	<p>keine festen zeiten, Kalender</p>
+	<p>keine festen zeiten, link zu Kalender https://localendar.com/elsie</p>
 </div>
 
 <!-- <div class="home" id="home"> -->
