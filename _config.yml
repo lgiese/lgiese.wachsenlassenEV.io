@@ -10,7 +10,7 @@ markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 3
-port: 4040
+port: 4004
 
 navigation:
   - title: WasHierLos?
