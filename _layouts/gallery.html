@@ -133,9 +133,36 @@
             .home .demo-gallery {
               padding-bottom: 80px;
             }
+
+            * {
+              box-sizing: border-box;
+            }
+
+            .column {
+              float: left;
+              width: 25%;
+              padding: 5px;
+            }
+
+            /* Clearfix (clear floats) */
+            .row::after {
+              content: "";
+              clear: both;
+              display: table;
+            }
         </style>
 <!-- jQuery version must be >= 1.8.0; -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+        $("#mygallery").justifiedGallery({
+    rowHeight : 70,
+    lastRow : 'nojustify',
+    margins : 3px
+});
+</script>
+    
+<link rel="stylesheet" href="css/justifiedGallery.css" />
+<script src="assets/js/jquery.justifiedGallery.js"></script>
 </head>
 <body>
 
@@ -149,13 +176,17 @@
 
    {% include footer.html %}
    {% include scripts.html %}
-
-
+    
     <script type="text/javascript">
         $(document).ready(function(){
             $('#lightgallery').lightGallery();
         });
+        $("#mygallery").justifiedGallery();
     </script>
+    
+    <link rel="stylesheet" href="css/justifiedGallery.css" />
+    <script src="assets/js/jquery.justifiedGallery.js"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.11/js/lightgallery-all.min.js"></script>

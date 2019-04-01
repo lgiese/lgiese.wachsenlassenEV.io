@@ -3,21 +3,69 @@ layout: gallery
 title: Fotogallerie
 ---
 
-<div id="lightgallery">
-  <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
-      <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" />
-  </a>
-  <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
-      <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" />
-  </a>
+<div id="mygallery" >
+    <div id="lightgallery" >
+    <a href="/assets/img/AndreaHacke.jpg">
+        <img alt="Februar: Beete frisch machen für das neue Gartenjahr" src="/assets/img/AndreaHacke_thumb.jpg" height="180" width="240"/>
+    </a>
+    <a href="/assets/img/Probebohrung.jpg">
+        <img alt="Probebohrung für einen Brunnen - Der trockene Sommer 2018 hat nochmal klar gemacht: Wir brauchen mehr Wasser!" src="/assets/img/Probebohrung_thumb.jpg" height="180" width="140"/>
+    </a>
+    <a href="/assets/img/Brombeertunnel.jpg">
+        <img alt="Im Brombeerdickicht entsteht ein Tunnel" src="/assets/img/Brombeertunnel_thumb.jpg" height="180" width="240"/>
+    </a>
+    <a href="/assets/img/Bienen.jpg">
+        <img alt="Wir haben Zuwachs bekommen - Viele kleine Bienchen!" src="/assets/img/Bienen_thumb.jpg" height="180" width="180"/>
+    </a>
+    <a href="/assets/img/Steine.jpg">
+        <img alt="Neue alte Bodenplatten für den Garten" src="/assets/img/Steine_thumb.jpg" height="180" width="140"/>
+    </a>
+    <a href="/assets/img/Huettenbau.jpg">
+        <img alt="Unsere Gartengeräte bekommen einen neuen Unterstand" src="/assets/img/Huettenbau_thumb.jpg" height="180" width="240"/>
+    </a>
+    <a href="/assets/img/Regenrinne.jpg">
+        <img alt="Das Dach ist unere Wassersammelanlage, nur die Rinne hat noch gefehlt" src="/assets/img/Regenrinne_thumb.jpg" height="180" width="240"/>
+    </a>
+    <a href="/assets/img/Spring.jpg">
+        <img alt="Frühling :)" src="/assets/img/Spring_thumb.jpg" height="180" width="240"/>
+    </a>
+    <a href="/assets/img/Spass.jpg">
+        <img alt="GuteLauneGärtnern - Geil geil geil" src="/assets/img/Spass_thumb.jpg" height="180" width="140"/>
+    </a>
+    <a href="/assets/img/Menschen.jpg">
+        <img alt="Schööön Unkraut rupfen..." src="/assets/img/Menschen_thumb.jpg" height="180" width="240"/>
+    </a>
+    <a href="/assets/img/MenschBeet.jpg">
+        <img alt="...uuund noch mehr Unkraut rupfen" src="/assets/img/MenschBeet_thumb.jpg" height="180" width="240"/>
+    </a>
+    </div>
 </div>
 
-
+<div class="row">
+  <div class="column">
+<div id="lightgallery" >
+    <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
+        <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>        
+    </a>
+    <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
+        <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>
+    </a>
+</div>
+    <div class="column">
+    <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
+        <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>        
+    </a>
+    <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
+        <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>
+    </a>
+</div>
+</div>
+</div>
 
 <div class="demo-gallery">
-    <ul id="lightgallery" class="list-unstyled row">
+    <ul id="lightgallery" class="list-unstyled justified gallery">
         <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="/assets/img/touring.jpg 375, /assets/img/touring.jpg 480, /assets/img/touring.jpg 800" data-src="/assets/img/touring.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
-            <a href="">
+            <a href="/assets/img/touring.jpg">
                 <img class="img-responsive" src="/assets/img/touring.jpg">
                 <div class="demo-gallery-poster">
                     <img src="/assets/img/touring.jpg">
@@ -25,14 +73,6 @@ title: Fotogallerie
             </a>
         </li>
     </ul>
-    <div class="lg-ad">
-        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-        <!-- lg1.2-home -->
-        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2888290830590449" data-ad-slot="3298566212"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </div>
 </div>
 
 

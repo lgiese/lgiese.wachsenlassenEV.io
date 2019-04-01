@@ -15,7 +15,7 @@ port: 4004
 navigation:
   - title: WasHierLos?
     url: /index.html
-  - title: Gartenprojekt
+  - title: So läuft´s
     url: /gartenprojekt
   - title: Neues
     url: /neues

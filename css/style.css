@@ -823,6 +823,37 @@ HEADER STYLING
       color: white;
       text-decoration: none; }
 
+.example2 {
+  background-image: url("../img/Spring_index.jpg");
+  background-size: 356px 474px;
+  background-repeat: no-repeat;
+  color: white;
+  padding: 0;
+  height: 3em; }
+  .example2 .container {
+    padding: 0;
+    max-width: 50%; }
+  .example2 h1 {
+    margin: 0;
+    float: left;
+    padding-left: 2rem;
+    font-size: 1em;
+    line-height: 3em;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    text-transform: uppercase; }
+    .example2 h1 a {
+        color: white;
+        font-size: .9em;
+        text-decoration: none;
+        padding: 0 .25em;
+
+        &:hover {
+        color: darken(white, 20%);
+        text-decoration: none; }
+        }
+
+
 /***************
 POST STYLING
 ***************/
@@ -1159,3 +1190,19 @@ CONTACT PAGE STYLING
     width: 48%;
     float: right;
     margin-right: 0; } }
+
+  /***************
+ADDITIONAL PAGE STYLING
+***************/
+
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px; }
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table; } 
