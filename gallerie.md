@@ -45,7 +45,7 @@ title: Fotogallerie
   <div class="column">
 <div id="lightgallery" >
     <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
-        <img alt="testonline" src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>        
+        <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>        
     </a>
     <a href="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}">
         <img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" style="width:100%"/>
