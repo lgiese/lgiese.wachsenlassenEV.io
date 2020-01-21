@@ -21,6 +21,8 @@ navigation:
     url: /neues
   - title: Fotogallerie
     url: /gallerie
+  - title: Kalender
+    url: /calender
   - title: Kontakt
     url: /contact
 
