@@ -154,15 +154,16 @@
 <!-- jQuery version must be >= 1.8.0; -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
-        $("#mygallery").justifiedGallery({
-    rowHeight : 70,
-    lastRow : 'nojustify',
-    margins : 3px
-});
+    $("#mygallery").justifiedGallery({
+        rowHeight : 70,
+        lastRow : 'nojustify',
+        margin : 3,
+    }); 
+    
 </script>
     
-<link rel="stylesheet" href="css/justifiedGallery.css" />
-<script src="assets/js/jquery.justifiedGallery.js"></script>
+<link rel="stylesheet" href="/css/justifiedGallery.css" />
+<script src="/assets/js/jquery.justifiedGallery.js"></script>
 </head>
 <body>
 
@@ -180,12 +181,24 @@
     <script type="text/javascript">
         $(document).ready(function(){
             $('#lightgallery').lightGallery();
+            $('#2020').lightGallery({
+                thumbnail:true,
+                animateThumb: false,
+                showThumbByDefault: false,
+                galleryId: 1
+            });
+            $('#2019').lightGallery({
+                thumbnail:true,
+                animateThumb: false,
+                showThumbByDefault: false,
+                galleryId: 2
+            });
+            $("#mygallery").justifiedGallery();
         });
-        $("#mygallery").justifiedGallery();
     </script>
     
-    <link rel="stylesheet" href="css/justifiedGallery.css" />
-    <script src="assets/js/jquery.justifiedGallery.js"></script>
+    <link rel="stylesheet" href="/css/justifiedGallery.css" />
+    <script src="/assets/js/jquery.justifiedGallery.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
 
