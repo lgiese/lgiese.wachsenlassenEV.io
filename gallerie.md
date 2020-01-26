@@ -161,14 +161,11 @@ title: Fotogallerie
 
 <h2>2018</h2>
 
-<div id="mygallery" class="list-unstyled justified-gallery" style="height: 570px;">
-    <a class="jg-entry" href="/assets/img/AndreaHacke.jpg" data-sub-html="Februar: Beete frisch machen für das neue Gartenjahr" style="width: 240px; height: 179px; top: 6px; left: 6px; opacity: 1;">
-        <img class="img-responsive" src="/assets/img/AndreaHacke.jpg" style="width: 240px; height: 180px; margin-left: 6px; margin-top: 80px;">
-            <div class="demo-gallery-poster">
-                <img src="/assets/img/AndreaHacke.jpg">
-            </div>                            
+<div id="mygallery" style="height: 570px;">
+    <a href="/assets/img/AndreaHacke.jpg" style="width: 240px; height: 179px; top: 6px; left: 6px; opacity: 1;">
+        <img alt="Februar: Beete frisch machen für das neue Gartenjahr" src="/assets/img/AndreaHacke.jpg"/>                           
     </a>
-    <a class="jg-entry" href="/assets/img/Probebohrung.jpg" data-sub-html="Probebohrung für einen Brunnen - Der trockene Sommer 2018 hat nochmal klar gemacht: Wir brauchen mehr Wasser!" style="width: 240px; height: 179px; top: 6px; left: 253px; opacity: 1;">                            
+    <a class="jg-entry" href="/assets/img/Probebohrung.jpg" alt="Probebohrung für einen Brunnen - Der trockene Sommer 2018 hat nochmal klar gemacht: Wir brauchen mehr Wasser!" style="width: 240px; height: 179px; top: 6px; left: 253px; opacity: 1;">                            
         <img class="img-responsive" src="/assets/img/Probebohrung.jpg" style="width: 240px; height: 180px; margin-left: 6px; margin-top: 80px;">
             <div class="demo-gallery-poster">
                 <img src="/assets/img/Probebohrung.jpg">
