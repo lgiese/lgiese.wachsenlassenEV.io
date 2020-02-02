@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+---
+layout: default
+title: Contact Long Haul
+---
 <html>
 <head>
 <style>

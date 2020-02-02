@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/DavidJVitale/jekyll-leaflet
+  revision: 94a93127386fa25efd6985a09976ea8038b84fcd
+  specs:
+    jekyll-leaflet (0.1.0)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -65,10 +71,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-leaflet!
   jekyll-paginate
   jekyll-watch
   support-for
   wdm
 
 BUNDLED WITH
-   1.16.5
+   1.17.3

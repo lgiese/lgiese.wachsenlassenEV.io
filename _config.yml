@@ -25,6 +25,9 @@ navigation:
     url: /calender
   - title: Kontakt
     url: /contact
+    
+gems:
+  - jekyll-leaflet
 
 social:
   github: https://github.com/lgiese/lgiese.wachsenlassenEV.io
