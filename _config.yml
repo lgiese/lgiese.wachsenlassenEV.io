@@ -8,7 +8,9 @@ permalink:
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins:
+  - fullcalendar-rails
+  - momentjs-rails
 paginate: 3
 port: 4004
 
@@ -28,6 +30,7 @@ navigation:
     
 gems:
   - jekyll-leaflet
+  - jekyll-paginate
 
 social:
   github: https://github.com/lgiese/lgiese.wachsenlassenEV.io

@@ -1,42 +1,24 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Kalender
 ---
-<html>
+
 <head>
 <style>
-#example1 {
-  border: 2px solid black;
-  padding: 25px;
-  background: url(mountain.jpg);
-  background-repeat: no-repeat;
-  background-size: auto;
-}
 
-#example2 {
-  border: 2px solid black;
-  padding: 25px;
-  background: url(mountain.jpg);
-  background-repeat: no-repeat;
-  background-size: 300px 100px;
-}
 </style>
 </head>
-<body>
+<body>   
+    <div id="calendar"></div>
 
-<h2>background-size: auto (default):</h2>
-<div id="example1">
-  <h2>Hello World</h2>
-  <p>The background image is displayed in its original size.</p>
-</div>
-
-<h2>background-size: 300px 100px:</h2>
-<div id="example2">
-  <h2>Hello World</h2>
-  <p>Here, the background image is set to 300px wide and 100px heigh.</p>
-</div>
-
-<p><strong>Note:</strong> The background-size property is not supported in Internet Explorer 8 and earlier versions.</p>
-
+    
+<script type="text/javascript">
+        $(document).ready(function(){
+            $('#calendar').fullCalendar({});
+            $('#calendar').fullCalendar({
+                events: '/events.json'
+            });
+        });
+    </script>    
 </body>
-</html>
+
