@@ -104,17 +104,6 @@ maps: true
             };
             streets.addTo(mymap);
              -->   
-            
-
-       
-    <!-- mapbox://styles/giesela/ck63qwjjw0sed1ip7zff7tac1 -->
-<!-- {% leaflet_map { "href" : "mapbox://styles/giesela/ck63qwjjw0sed1ip7zff7tac1",
-            "zoom" : 4,
-            "providerBasemap": "MapBox",
-            "accessToken": "pk.eyJ1IjoiZ2llc2VsYSIsImEiOiJjamp5aXprZ25hNnI1M3dyNXAzMHEydWZrIn0.myomssXvnHLk8ad6o1B_Qg",
-            "maxZoom" : 18 } %}
-    {}
-{% endleaflet_map %} -->   
 
 </section>
 </body>
