@@ -1,5 +1,5 @@
 title: Wachsen Lassen E. V.
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Gemeinschaftsgarten Wachenlassen E.V. Marburg
 
 url: https://github.com/lgiese/lgiese.wachsenlassenEV.io
 baseurl: ""
@@ -34,8 +34,6 @@ gems:
 
 social:
   github: https://github.com/lgiese/lgiese.wachsenlassenEV.io
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  email: wachsenlassen@posteo.de
 
 google_analytics: "UA-58263416-1"

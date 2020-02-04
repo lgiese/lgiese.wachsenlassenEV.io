@@ -1,48 +1,11 @@
-![preview Long Haul](/preview.jpg)
+## Gemeinschaftsgarten Wachsenlassen E.V. Marburg
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+Willkommen auf unserer Garten-Webseite. Hier bekommst du Infos zu unserem Gemeinschaftsgarten-Projekt in Marburg, wo auch du gegen einen kleinen jährlichen finanziellen Beitrag Mitglied werden kannst. Nimm mit uns Kontakt auf und komm vorbei, damit wir dich kennen lernen.
+Bei uns gibt es verschiedenste Garten-typische Sachen zu tun und die Arbeit zahlt sich dann im Verlauf des Jahres in ausgesprochen leckerem Essen aus!
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+Wir sind ein gemeinnütziger Verein.
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+# License
 
-## Features
-
-- Minimal, Type Focused Design
-- Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
-
-## Setup
-
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. [Install Bundler](http://bundler.io/)
-5. Run `bundle install`
-6. Install gulp dependencies by running `npm install`
-7. Run Jekyll and watch files by running `bundle exec gulp`
-8. Customize and watch the magic happen!
-
-## Site Settings
-
-The main settings can be found inside the `_config.yml` file:
-
-- **title:** title of your site
-- **description:** description of your site
-- **url:** your url
-- **paginate:** the amount of posts displayed on homepage
-- **navigation:** these are the links in the main site navigation
-- **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
-
-## License
-
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+Diese Seite wurde mithilfe von <a href="https://jekyllrb.com/"> Jekyll </a>und dem frei verfügbaren Jekyll Theme <a href="https://jekyllthemes.io/theme/long-haul"> Long Haul </a>, dem<a href="https://fullcalendar.io/"> FullCalender</a>- und dem<a href="https://sachinchoolur.github.io/lightGallery/"> LightGallery </a> jQuery-Plugin unter der [MIT](LICENSE) erstellt.
+ 

@@ -4,12 +4,19 @@ title: So läuft´s
 ---
 
 <div class="articles">
-	<h1 class="pageTitle">Wer?</h1>
-	<p>von Studenten gegründet + Andere</p>
-    <h1 class="pageTitle">Wie?</h1>
-	<p>Karte Beete, Locker, entspannt, einfach einsteigen!</p>
-    <h1 class="pageTitle">Wann?</h1>
-	<p>keine festen zeiten, link zu Kalender https://localendar.com/elsie</p>
+	<h2 class="title">Wer?</h2>
+	<p>von Studenten gegründet + Andere,  einfach einsteigen!, Mitgliedsbeitrag</p>
+    <h2 class="title">Wie?</h2>
+	<p>Karte Beete?, Locker, entspannt,</p>
+    <h2 class="title">Was?</h2>
+	<p>Anstehende Projekte:</p>
+    <ul>
+        <li>Gewächshaus bauen</li>
+        <li>Geräteschuppen wieder aufbauen</li>
+        <li>Weiter Beete fit machen für den Saisonstart</li>
+    </ul>
+    <h2 class="title">Wann?</h2>
+	<p>keine festen zeiten, <a href="/calender"> Kalender </a></p>
 </div>
 
 <!-- <div class="home" id="home"> -->
