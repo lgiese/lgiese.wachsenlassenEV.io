@@ -7,7 +7,7 @@ title: Kalender
     <meta charset='utf-8' />
     <link href='/packagesFullcalendar/core/main.css' rel='stylesheet' />
     <link href='/packagesFullcalendar/daygrid/main.css' rel='stylesheet' />
-    <link href='/packagesFackages/timegrid/main.css' rel='stylesheet' />
+    <link href='/packagesFullcalendar/timegrid/main.css' rel='stylesheet' />
     <script src='/packagesFullcalendar/core/main.js'></script>
     <script src='/packagesFullcalendar/interaction/main.js'></script>
     <script src='/packagesFullcalendar/daygrid/main.js'></script>
@@ -38,7 +38,8 @@ title: Kalender
         calendar.unselect()
       },
       editable: true,
-      eventLimit: true // allow "more" link when too many events
+      eventLimit: true, // allow "more" link when too many events
+      events: '/componentsFullcalendar/json/events.json'
         });
         calendar.render();
       });
@@ -55,18 +56,18 @@ title: Kalender
         margin: 0 auto;
     }
     </style>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#calendar').fullCalendar({});
+            $('#calendar').fullCalendar({
+                events: '/componentsFullcalendar/json/events.json'
+            });
+        });
+</script> 
   </head>
   <body>
     <div id='calendar'></div>
 
-    
-<script type="text/javascript">
-        $(document).ready(function(){
-            $('#calendar').fullCalendar({});
-            $('#calendar').fullCalendar({
-                events: '/events.json'
-            });
-        });
-    </script>    
 </body>
 
+<!--  -->
