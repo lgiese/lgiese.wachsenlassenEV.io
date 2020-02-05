@@ -2,7 +2,7 @@ title: Wachsen Lassen E. V.
 description: Gemeinschaftsgarten Wachenlassen E.V. Marburg
 
 url: https://github.com/lgiese/lgiese.wachsenlassenEV.io
-baseurl: ""
+baseurl: "https://github.com/lgiese/lgiese.wachsenlassenEV.io"
 paginate_path: "blog/page:num/"
 permalink: 
 
