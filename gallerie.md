@@ -76,7 +76,6 @@ title: Fotogallerie
             </div>
     </a>
 </div>
-</div>
 </section>
 ---
 
