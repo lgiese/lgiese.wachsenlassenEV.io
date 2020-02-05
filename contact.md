@@ -31,7 +31,7 @@ maps: true
 
 <body>
 <section>
-<h3>Oder komm einfach vorbei:</h3>
+<h3>Oder komm einfach vorbei...</h3>
     <div>
         <p>Den Garten findest du hier:</p>
         <p>Entweder aus Richtung der Vitos Klinik kommend (auf der Karte in rot):</p>

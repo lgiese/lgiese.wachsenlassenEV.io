@@ -13,6 +13,14 @@ title: Kalender
     <script src='/packagesFullcalendar/daygrid/main.js'></script>
     <script src='/packagesFullcalendar/timegrid/main.js'></script>
     <script type="text/javascript">
+        $(document).ready(function(){
+            $('#calendar').fullCalendar({});
+            $('#calendar').fullCalendar({
+                events: '/componentsFullcalendar/json/events.json'
+            });
+        });
+    </script>
+    <script type="text/javascript">
       document.addEventListener('DOMContentLoaded', function() {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
@@ -20,10 +28,11 @@ title: Kalender
           header: {
           left: 'prev,next today',
           center: 'title',
-          right: 'dayGridMonth,timeGridWeek,timeGridDay'
+          right: 'dayGridMonth,timeGridWeek,timeGridDay',
+          ignoreTimezone: true
           },
       navLinks: true, // can click day/week names to navigate views
-      selectable: false,
+      selectable: true,
       selectMirror: true,
       select: function(arg) {
         var title = prompt('Event Title:');
@@ -37,9 +46,9 @@ title: Kalender
         }
         calendar.unselect()
       },
-      editable: false,
+      editable: true,
       eventLimit: true, // allow "more" link when too many events
-      events: '/componentsFullcalendar/json/events.json'
+      events:'/componentsFullcalendar/json/events.json',
         });
         calendar.render();
       });
@@ -53,25 +62,17 @@ title: Kalender
     }
     #calendar {
         max-width: 900px;
-        margin: 300px 0 0 0;
+        margin: 0 auto;
     }
-    </style>
-    <script type="text/javascript">
-        $(document).ready(function(){
-            $('#calendar').fullCalendar({});
-            $('#calendar').fullCalendar({
-                events: '/componentsFullcalendar/json/events.json'
-            });
-        });
-</script> 
+    </style> 
   </head>
   <body>
-<div id="column" style="width:60%;height:250px;overflow:hidden;float:left;">
+<div id="column" style="width:60%;height:250px;overflow:hidden;float:left;margin-bottom:50px;">
     <h2> Wann geht's wieder ab in' Garten?</h2>
-    <p>Wir haben immer mal wieder Aktionstermine, an denen wir möglichst viele Leute brauchen, um ordentlich was zu schaffen. Ab und zu müssen wir natürlich auch mal ein Festchen feiern oder ähnliches. Diese festen Termine findest du unten im Kalender. Ansonsten ist auch sonst immer mal wieder jemand da, vor allem an den Wochenenden. Probier's und schau vorbei. Alternativ gönnst du dir einfach ein bisschen Gartenzeit alleine oder mit Freunden/Familie!</p>
+    <p>Wir haben immer mal wieder Aktionstermine, an denen wir möglichst viele Leute brauchen, um ordentlich was zu schaffen. Ab und zu müssen wir natürlich auch mal ein Festchen feiern oder ähnliches. Diese festen Termine findest du unten im Kalender. Ansonsten sind wir natürlich auch aktiv, je nach Lust und Laune, vor allem an den Wochenenden. Probier's und schau vorbei.</p>
     <p>Die Wettervorhersage verrät dir noch was du anziehen sölltest und jetz aber: <b>Ab in' Garten!!!</b></p>
 </div>
-<div id="column" style="width:300px;height:250px;overflow:hidden;float:right;">
+<div id="column" style="width:35%;height:250px;overflow:hidden;float:right;margin-bottom:50px;">
     <div style="position:relative;top:0px;left:0px;width:300px;height:221px;">
         <iframe src="https://kachelmannwetter.com/widget/rectangle/2873759" width="300" height="221" scrolling="no" marginheight="0" frameborder="no"></iframe>
         <div style="position:absolute;top:221px;left:0px;width:300px;height:29px;"><a style="border:0px;" href="https://kachelmannwetter.com/de/" target="_blank"><img src="https://kachelmannwetter.com/images/widgets/kachelmannwetter-logo.png" alt="kachelmannwetter.com" width="300" height="29" border="0" style="border:0px;" /></a></div>
@@ -79,7 +80,13 @@ title: Kalender
 </div>
 
 
-<h4> Wetter in: </h4>
+<h4> Unsere Termine: </h4>
     
 <div id='calendar' style="width:100%"></div> 
 </body>
+
+<!-- {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2018-08-09T16:00:00-05:00"
+  }, -->
