@@ -32,7 +32,7 @@ title: Kalender
           ignoreTimezone: true
           },
       navLinks: true, // can click day/week names to navigate views
-      selectable: true,
+      selectable: false,
       selectMirror: true,
       select: function(arg) {
         var title = prompt('Event Title:');
@@ -46,7 +46,7 @@ title: Kalender
         }
         calendar.unselect()
       },
-      editable: true,
+      editable: false,
       eventLimit: true, // allow "more" link when too many events
       events:'/componentsFullcalendar/json/events.json',
         });

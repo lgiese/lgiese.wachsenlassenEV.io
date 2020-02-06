@@ -77,11 +77,11 @@ maps: true
                 [50.794105, 8.772425]], {color: 'red'}).addTo(mymap);
             var yellowIcon = L.icon({
                 iconUrl: '/assets/img/leaf.png',
-                iconSize:     [70, 95], // size of the icon
-                iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+                iconSize:     [70, 70], // size of the icon
+                iconAnchor:   [35, 65], // point of the icon which will correspond to marker's location
                 popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
             });
-            var marker = L.marker([50.794550, 8.770803], {icon: yellowIcon}).addTo(mymap);            
+            var marker = L.marker([50.794522, 8.770829], {icon: yellowIcon}).addTo(mymap);            
             var coordinates = L.popup();
             function onMapClick(e) {
                 coordinates
