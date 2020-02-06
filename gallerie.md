@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Fotogallerie
+title: Fotogalerie
 ---
 
 <section>

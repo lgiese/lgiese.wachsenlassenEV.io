@@ -21,7 +21,7 @@ navigation:
     url: /gartenprojekt
   - title: Neues
     url: /neues
-  - title: Fotogallerie
+  - title: Fotogalerie
     url: /gallerie
   - title: Kalender
     url: /calender
