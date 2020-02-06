@@ -103,7 +103,7 @@ title: Fotogallerie
                 <img src="/assets/img/Huettenbau.jpg">
             </div>
     </a>
-    <a class="jg-entry" href="/assets/img/Regenrinne.jpg" data-sub-html="Das Dach ist unere Wassersammelanlage, nur die Rinne hat noch gefehlt" style="width: 240px; height: 179px; top: 193px; left: 500px; opacity: 1;">   
+    <a class="jg-entry" href="/assets/img/Regenrinne.jpg" data-sub-html="Das Dach ist unsere Wassersammelanlage, nur die Rinne hat noch gefehlt" style="width: 240px; height: 179px; top: 193px; left: 500px; opacity: 1;">   
             <div class="demo-gallery-poster">
                 <img src="/assets/img/Regenrinne.jpg">
             </div>
@@ -128,12 +128,12 @@ title: Fotogallerie
                 <img src="/assets/img/Spring.jpg">
             </div>
     </a>
-     <a class="jg-entry" href="/assets/img/image20.jpeg" data-sub-html="Freudenfeuer mit Feeunden" style="width: 240px; height: 181px; top: 379px; left: 747px; opacity: 1;">
+     <a class="jg-entry" href="/assets/img/image20.jpeg" data-sub-html="Freudenfeuer mit Feunden" style="width: 240px; height: 181px; top: 379px; left: 747px; opacity: 1;">
             <div class="demo-gallery-poster">
                 <img src="/assets/img/image20.jpeg">
             </div>
     </a>
-    <a class="jg-entry" href="/assets/img/image22.jpeg" data-sub-html="Toller Fund im Untergrund: Die schnecken haben uns ein paar Kartoffeln übrig gelassen!" style="width: 240px; height: 179px; top: 565px; left: 6px; opacity: 1;">   
+    <a class="jg-entry" href="/assets/img/image22.jpeg" data-sub-html="Toller Fund im Untergrund: Die Schnecken haben uns ein paar Kartoffeln übrig gelassen!" style="width: 240px; height: 179px; top: 565px; left: 6px; opacity: 1;">   
             <div class="demo-gallery-poster">
                 <img src="/assets/img/image22.jpeg">
             </div>

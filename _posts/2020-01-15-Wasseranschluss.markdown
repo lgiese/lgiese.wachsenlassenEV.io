@@ -7,7 +7,7 @@ date:   2020-01-15
 
 <p class="intro"><span class="dropcap">N</span>ach einjähriger Planung geht es dann doch vorran mit unserer Wasserversorgung. Dank der freundlichen Unterstützung der Vitos Klinik und der Sozialen Hilfe werden wir der Sommerhitze dieses Jahr trotzen können! Es fehlt zwar noch der Hahn, aber der Anfang ist getan!!!</p>
 
-Viele Ansätze wurden vorgeschlagen, durchdacht und verworfen - vom Gartenbrunnen über Regenwasserzisternen oder Tonnen bis hin zu einer Tiefenbrunnenbohrung. Am Ende war es dann doch so einfach: Im Gespräch mit der Vitos Klinik und der sozialen Hilfe haben wir uns auf einen Außenwasserhahn mit Zähler am Gebäude der sozialen Hilfe geeinigt. Das ist von unserem Gartengrundstück aus am nächsten gelegen und mit einem langen Schlauch super zugänglich leicht zugänglich. Nun kann man schon den Ansatz des Hahnes bestaunen:
+Viele Ansätze wurden vorgeschlagen, durchdacht und verworfen - vom Gartenbrunnen über Regenwasserzisternen oder Tonnen bis hin zu einer Tiefenbrunnenbohrung. Am Ende war es dann doch so einfach: Im Gespräch mit der Vitos Klinik und der sozialen Hilfe haben wir uns auf einen Außenwasserhahn mit Zähler am Gebäude der sozialen Hilfe geeinigt. Das ist von unserem Gartengrundstück aus am nächsten gelegen und mit einem langen Schlauch leicht zugänglich. Nun kann man schon den Ansatz des Hahnes bestaunen:
 
 <figure>
 	<img src="{{ '/assets/img/Wasseranschluss.jpeg' | prepend: site.baseurl }}" alt=""> 
