@@ -19,6 +19,8 @@ navigation:
     url: /index.html
   - title: So läuft´s
     url: /gartenprojekt
+  - title: WasStehtAn?
+    url: /wasstehtan
   - title: Neues
     url: /neues
   - title: Fotogalerie

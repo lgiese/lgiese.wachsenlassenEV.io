@@ -12,16 +12,10 @@ title: So läuft´s
         <li>Zucchinibeitrag: 24€</li>
         <li>Rosenbeitrag: 36€</li>
     </ul>
-    <h2 class="title">Was steht an?</h2>
-    <ul>
-        <li>Gewächshaus bauen</li>
-        <li>Geräteschuppen wieder aufbauen</li>
-        <li>Weiter Beete fit machen für den Saisonstart</li>
-    </ul>
     <h2 class="title">Wie?</h2>
-	<p>Unsere Pläne sind meist sehr flexibel gehalten. Bei uns läuft alles sehr locker und entspannt ab und jeder kann seine Ideen einbringen, oder auch ein eigenes kleines Beet bewirtschaften. Zur Orientierung, was wo wächst dienen beschriftete Löffel, die im Beet stecken (und eine Karte der Beete?).</p>
+	<p>Unsere Pläne sind meist sehr flexibel gehalten. Bei uns läuft alles sehr locker und entspannt ab und jeder kann seine Ideen einbringen, oder auch ein eigenes kleines Beet bewirtschaften. Um gemeinschaftlich größere Entscheidungen zu treffen, Probleme zu besprechen, Pläne zu schmieden, Projekte zu planen und uns weiterzuentwickeln, treffen wir uns hin und wieder zum Gartenplenum. Viele Dinge lassen sich aber auch gut am Lagerfeuer diskutieren. Was es gerade konkret im Garten zu tun gibt, verrät dir diese Liste: <a href="/wasstehtan">Was steht an?</a> Dort findest du auch eine Karte der Beete.</p>
     <h2 class="title">Wann?</h2>
-	<p>Wir haben keine festen Gartenzeiten, sondern sprechen uns kurzfristig ab. Alle festen Termine findest du im <a href="/calender"> Kalender </a> .</p>
+	<p>Wir haben keine festen Gartenzeiten, sondern sprechen uns kurzfristig ab. Oder wir gehen einfach so los, vielleicht ist ja schon jemand da!? Alle festen Termine findest du im <a href="/calender"> Kalender</a> .</p>
 </div>
 
 <!-- <div class="home" id="home"> -->

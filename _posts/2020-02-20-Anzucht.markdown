@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Februar - Zeit der Anzuchten"
+date:   2020-02-20
+---
+
+
+<p class="intro"><span class="dropcap">I</span>m Februar sind einige wichtige Vorbereitungen schon im vollen Gange. </p> 
+    
+Eine der Anzuchtstationen - Team Rückertweg- berichtet: dieses Jahr durften wir die Verantwortung für kleines Kohl- und Salatgemüs übernehmen. Während dem Sturm Sabine brachten wir die Leichtgewichte in Sicherheit, damit sie uns nicht davonflogen. Die Atmosphäre in der WG hat ihnen so gut gefallen, dass sie sogleich keimten. Wieder nach draußen gesetzt (auf dem Boden der Tatsachen, es ist Winter) müssen sie nun lernen mit den Temperaturen umzugehen. Wir sind gespannt und freuen uns auf die weitere Entwicklung!
+
+<figure>
+	<img src="{{ '/assets/img/anzucht2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Unser grüner Kindergarten</figcaption>
+</figure>
+
+<figure>
+	<img src="{{ '/assets/img/anzucht1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Der Nachwuchs reckt die Hälse empor</figcaption>
+</figure>

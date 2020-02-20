@@ -34,10 +34,8 @@ maps: true
 <h3>Oder komm einfach vorbei...</h3>
     <div>
         <p>Den Garten findest du hier:</p>
-        <p>Entweder aus Richtung der Vitos Klinik kommend (auf der Karte in rot):</p>
+        <p>Aus Richtung der Vitos Klinik kommend (auf der Karte in rot):</p>
         <p>Cappeler Str. 72, 35039 Marburg</p>
-        <p>Oder du nimmst den Durchgang zwischen den Häusern (auf der Karte in orange):</p>
-        <p>Rollwiesenweg 34 und 36, 35039 Marburg</p>
         </div>
         <div id="mapid" style ="height: 700px;"></div>
         <!-- Basemaps -->
@@ -60,13 +58,6 @@ maps: true
                 [50.794397, 8.771383],
                 [50.794748, 8.771112]
                 ], {color: 'yellow'}).addTo(mymap);
-            var polyline2 = L.polyline([
-                [50.795011, 8.768959],
-                [50.79515, 8.770703],
-                [50.794902, 8.770751],
-                [50.79496, 8.770628],
-                [50.794895, 8.770746],
-                [50.795011, 8.770778]], {color: 'orange'}).addTo(mymap);
             var polyline1 = L.polyline([
                 [50.794204, 8.770601],
                 [50.794258, 8.770676],
