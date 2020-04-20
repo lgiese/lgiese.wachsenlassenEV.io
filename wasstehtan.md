@@ -12,5 +12,6 @@ title: Was steht an?
         <li>Weiter Beete fit machen für den Saisonstart</li>
     </ul>
     <h2 class="title">Die Beete auf einen Blick</h2>
-    <p>Eine Karte der Beete ist in Arbeit</p>
 </div>
+
+<img src="{{ '/assets/img/GartenplanS.jpg' | prepend: site.baseurl }}" alt=""> 
