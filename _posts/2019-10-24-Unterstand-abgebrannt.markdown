@@ -16,3 +16,11 @@ Wenn Jemand Gartenwerkzeug, Holzstiele, Schläuche, sowie allerlei anderen nütz
 Auch Material zum Wiederaufbau des Unterstands ist sehr willkommen!
 
 Wär super, wenn ihr auch mal bei Freunden, Bekannten und Kollegen nachfragt. Vielen Dank für jegliche Hilfe!
+
+Aber traurig sein und meckern bringt nix, Taten müssen her und so ist's auch geschehen...
+
+<figure>
+	<img src="{{ '/assets/img/Geraeteunterstand_neu.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Wie ein Phönix aus der Asche ist ein neuer kleiner Unterstand erschienen</figcaption>
+</figure>
+
