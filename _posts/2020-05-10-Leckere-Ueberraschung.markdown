@@ -2,7 +2,6 @@
 layout: post
 title:  "Leckere Überraschung"
 date:   2020-05-01
-image: Zitronenseitlinge.jpg
 ---
 
 <p class="intro"><span class="dropcap">Ü</span>berraschung! </p>
