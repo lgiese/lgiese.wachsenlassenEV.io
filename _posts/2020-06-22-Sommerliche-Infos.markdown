@@ -9,7 +9,7 @@ date:   2020-06-22
 
 ich hoffe es geht euch allen gut! Der Garten sieht zumindest fantastisch aus!
 Fast alle Beete sind belegt, gemütliche Palettenmöbel sind am Start und der Regen die letzten Tage hat für einen ordentlichen Wachstumsschub gesorgt!
-Johanna, Klaas und ich haben mal ein paar aktuelle Infos zusammengetragen:
+Johanna, Klaas und ich haben mal ein paar aktuelle Infos zusammengetragen... </p>
 
 ## Corona Lage
 
