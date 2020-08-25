@@ -20,7 +20,7 @@ Bitte beachtet, dass das Abstandsgebot von 1,5 m trotzdem noch gilt.
 
 Vielen Dank an Nicki und aufmerksamen Kinder die bemerkt haben wie jemand das Fahrradschloss am Eingang aufbricht.
 Nicki hat das ganze bei der Polizei angezeigt (auch großen Dank dafür!). Viel machen werden die nicht können, aber ich finde es trotzdem wichtig soetwas anzuzeigen!
-Johanna hat bereits ein stärkeres Schloss installiert. Der Code ist der selbe wie vorher (2425).
+Johanna hat bereits ein stärkeres Schloss installiert.
 
 ## Gärtnern
 
@@ -74,7 +74,7 @@ Zur Zeit blüht der Klee, weshalb viele Bienen in Bodennähe Nektar sammeln. Dah
 Wir haben letztes Wochenende Honig geschleudert. Der muss noch ein bisschen gerührt werden, bevor er bereit für das Abfüllen in Gläser ist.
 Georg und ich möchten gerne jedem, der / die will eine Kostprobe geben vom Wachsenlassen-Blütenhonig. Dazu stellen wir Glässchen in den Unterstand, Details kommen noch.
 
-Wenn euch wegen der Bienen etwas auf  dem Herzen liegt, oder es generell um Fragen rund um die Bienen geht, könnt ihr mir gerne über 0152 01995440 schreiben.
+Wenn euch wegen der Bienen etwas auf  dem Herzen liegt, oder es generell um Fragen rund um die Bienen geht, könnt ihr euch gerne bei ihr melden.
 
 
 Zum Schluss noch der Wetterbericht:
