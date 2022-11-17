@@ -18,7 +18,7 @@ maps: true
     <p class="intro">Interesse geweckt?</p>
     <p>Wenn du mehr Infos brauchst, mal reinschnuppern oder mitmachen willst, dann schreib uns! Wir freuen uns über Unterstützung beim ackern und neue Gartenfreunde!</p>
   </div>
-  <form action="https://formspree.io/f/wachsenlassen@posteo.de" method="POST">
+  <form action="https://formspree.io/f/meqdqwok" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">E-mail Addresse</label>
