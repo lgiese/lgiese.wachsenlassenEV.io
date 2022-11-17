@@ -18,14 +18,14 @@ maps: true
     <p class="intro">Interesse geweckt?</p>
     <p>Wenn du mehr Infos brauchst, mal reinschnuppern oder mitmachen willst, dann schreib uns! Wir freuen uns über Unterstützung beim ackern und neue Gartenfreunde!</p>
   </div>
-  <form action="https://formspree.io/f/meqdqwok" method="POST">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">E-mail Addresse</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Nachricht</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
-    <input type="submit" value="Senden" class="button">
+  <form 
+        action="https://formspree.io/f/meqdqwok" 
+        method="POST"
+  >
+    <label> E-mail Addresse <input type="email" id="email" name="_replyto" class="full-width"></label><br>
+    <label> Nachricht <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea></label><br>
+    <label> Name <input type="text" id="name" name="name" class="full-width"></label><br>
+    <button type="submit" >"Senden"</button">
   </form>
 </div>
 
