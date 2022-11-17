@@ -22,10 +22,10 @@ maps: true
         action="https://formspree.io/f/meqdqwok" 
         method="POST"
   >
-    <label> E-mail Addresse <input type="email" id="email" name="_replyto" class="full-width"></label><br>
-    <label> Nachricht <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea></label><br>
-    <label> Name <input type="text" id="name" name="name" class="full-width"></label><br>
-    <button type="submit" >"Senden"</button">
+    <label> E-mail Addresse <input type="email" id="email" name="_replyto" class="full-width"></label>
+    <label> Nachricht <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea></label>
+    <label> Name <input type="text" id="name" name="name" class="full-width"></label>
+    <button type="submit" >Senden</button">
   </form>
 </div>
 
