@@ -7,7 +7,8 @@ maps: true
 <html>
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<meta name="referrer" content="origin" />
 <script src='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.js'></script>
 <link href='https://api.mapbox.com/mapbox.js/v3.2.1/mapbox.css' rel='stylesheet' />
 </head>
@@ -22,7 +23,7 @@ maps: true
         action="https://formspree.io/f/meqdqwok" 
         method="POST"
   >
-    <label> E-mail Addresse <input type="email" id="email" name="e-mail" class="full-width"></label>
+    <label> E-mail Addresse <input type="email" id="email" name="_replyto" class="full-width"></label>
     <label> Nachricht <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea></label>
     <label> Name <input type="text" id="name" name="name" class="full-width"></label>
     <button type="submit" >Senden</button>
