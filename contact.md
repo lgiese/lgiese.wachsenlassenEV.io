@@ -17,9 +17,10 @@ maps: true
     <h1 class="pageTitle">Schreib uns</h1>
     <div class="contactContent">
     <p class="intro">Interesse geweckt?</p>
-    <p>Wenn du mehr Infos brauchst, mal reinschnuppern oder mitmachen willst, dann schreib uns! Wir freuen uns über Unterstützung beim ackern und neue Gartenfreunde!</p>
+    <p>Wenn du mehr Infos brauchst, mal reinschnuppern oder mitmachen willst, dann schreib uns unter der Adresse: <i>wachsenlassen@posteo.de<i>! Wir freuen uns über Unterstützung beim ackern und neue Gartenfreunde!
+    </p>
   </div>
-  <form 
+<!--  <form 
         action="https://formspree.io/f/meqdqwok" 
         method="POST"
   >
@@ -27,7 +28,7 @@ maps: true
     <label> Nachricht <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea></label>
     <label> Name <input type="text" id="name" name="name" class="full-width"></label>
     <button type="submit" >Senden</button>
-  </form>
+  </form> -->
 </div>
 
 <body>
