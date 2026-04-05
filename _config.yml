@@ -4,13 +4,13 @@ description: Gemeinschaftsgarten Wachenlassen E.V. Marburg
 url: https://github.com/lgiese/lgiese.wachsenlassenEV.io
 baseurl: ""
 paginate_path: "blog/page:num/"
-permalink: 
+permalink: /:title/
 
 markdown: kramdown
 highlighter: rouge
 plugins:
-  - fullcalendar-rails
-  - momentjs-rails
+  - jekyll-paginate
+  - jekyll-leaflet
 paginate: 3
 port: 4004
 
