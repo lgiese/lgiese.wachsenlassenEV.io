@@ -1,0 +1,3 @@
+[submodule "src/plugins/leaflet-ajax"]
+	path = src/plugins/leaflet-ajax
+	url = https://github.com/calvinmetcalf/leaflet-ajax
