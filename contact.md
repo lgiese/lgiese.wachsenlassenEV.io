@@ -17,7 +17,7 @@ maps: true
     <h1 class="pageTitle">Schreib uns</h1>
     <div class="contactContent">
     <p class="intro">Interesse geweckt?</p>
-    <p>Wenn du mehr Infos brauchst, mal reinschnuppern oder mitmachen willst, dann schreib uns unter der Adresse: <i> wachsenlassen@posteo.de </i> ! Wir freuen uns über Unterstützung beim ackern und neue Gartenfreunde!
+    <p>Wenn du mehr Infos brauchst, mal reinschnuppern oder mitmachen willst, dann schreib uns unter der Adresse: <i> wachsenlassen@posteo.de </i> oder nutze einfach das Kontaktformular! Wir freuen uns über Unterstützung beim ackern und neue Gartenfreunde!
     </p>
   </div>
   <form 
