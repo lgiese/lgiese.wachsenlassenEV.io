@@ -3,8 +3,7 @@
 Willkommen auf unserer Garten-Webseite. Hier bekommst du Infos zu unserem Gemeinschaftsgarten-Projekt in Marburg, wo auch du gegen einen kleinen jährlichen finanziellen Beitrag Mitglied werden kannst. Nimm mit uns Kontakt auf und komm vorbei, damit wir dich kennen lernen.
 Bei uns gibt es verschiedenste Garten-typische Sachen zu tun und die Arbeit zahlt sich dann im Verlauf des Jahres in ausgesprochen leckerem Essen aus!
 
-wachsenlassenmr.de
-
+Besuche uns auf unserer Website [wachsenlassenmr.de](https://wachsenlassenmr.de) für mehr Informationen.
 
 Wir sind ein gemeinnütziger Verein.
 
